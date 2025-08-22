@@ -1,0 +1,1 @@
+Requisitos: node e mySQL instalados no computador 
